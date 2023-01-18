@@ -1,6 +1,6 @@
 # QMP_GS
 
-This repository includes Python codes and the results of the running used in the paper, "Quantum multi-programming for Grover's search" (https://arxiv.org/abs/2207.14464).
+This repository includes Python codes and the results of the running used in the paper, "Quantum multi-programming for Grover's search" [https://doi.org/10.1007/s11128-022-03793-2](https://doi.org/10.1007/s11128-022-03793-2).
 
 
 ## Note for Qiskit version
